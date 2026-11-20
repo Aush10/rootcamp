@@ -1,0 +1,1703 @@
+{
+  "version": "0.4",
+  "course": "Rootcamp",
+  "motto": "Root to boot — Everything you need to know",
+  "last_updated": "2026-11-19",
+  "course_policy": "See → Read → Explain → Try → Record → Assess",
+  "parts": [
+    {
+      "title": "Roots: files, code, local tools, and SQL literacy",
+      "capstone": "Theoretical Shop Catalogue",
+      "goal": "Demonstrate local computing, programming-tool orientation, safe sandboxes, and relational schema literacy without deploying a real shop.",
+      "id": "P1",
+      "modules": [
+        {
+          "id": "P1M1",
+          "number": "1.1",
+          "title": "Hello World: Desktop, Web, SQL, and Common Tools",
+          "timebox": "6–8 h",
+          "path": "course/part-1/module-01/README.md",
+          "assessment_path": "course/part-1/module-01/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P1M1S01",
+              "title": "HTML and CSS: first Hello World",
+              "status": "ready",
+              "path": "course/part-1/module-01/subjects/01-html-and-css-first-hello-world.md",
+              "required_readings_count": 1,
+              "overview_ready": true,
+              "exercise_ready": true
+            },
+            {
+              "id": "P1M1S02",
+              "title": "SQLite: a table and a query",
+              "status": "backlog",
+              "path": "course/part-1/module-01/subjects/02-sqlite-a-table-and-a-query.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M1S03",
+              "title": "Microsoft 365 and Google Workspace orientation",
+              "status": "backlog",
+              "path": "course/part-1/module-01/subjects/03-microsoft-365-and-google-workspace-orientation.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M1S04",
+              "title": "Kiwi Browser, browser settings, and extension trust",
+              "status": "backlog",
+              "path": "course/part-1/module-01/subjects/04-kiwi-browser-browser-settings-and-extension-trust.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M1S05",
+              "title": "HTTPS handshakes, certificates, and thumbprints",
+              "status": "backlog",
+              "path": "course/part-1/module-01/subjects/05-https-handshakes-certificates-and-thumbprints.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M1S06",
+              "title": "Local files, filenames, and proof of work",
+              "status": "backlog",
+              "path": "course/part-1/module-01/subjects/06-local-files-filenames-and-proof-of-work.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P1M2",
+          "number": "1.2",
+          "title": "Office Automation, File Explorer, and Storage Safety",
+          "timebox": "6–8 h",
+          "path": "course/part-1/module-02/README.md",
+          "assessment_path": "course/part-1/module-02/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P1M2S01",
+              "title": "Macros, scripts, and when not to enable automation",
+              "status": "backlog",
+              "path": "course/part-1/module-02/subjects/01-macros-scripts-and-when-not-to-enable-automation.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M2S02",
+              "title": "XML and document structure",
+              "status": "backlog",
+              "path": "course/part-1/module-02/subjects/02-xml-and-document-structure.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M2S03",
+              "title": "Excel and Google Sheets automation orientation",
+              "status": "backlog",
+              "path": "course/part-1/module-02/subjects/03-excel-and-google-sheets-automation-orientation.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M2S04",
+              "title": "Windows File Explorer, extensions, and system tools",
+              "status": "backlog",
+              "path": "course/part-1/module-02/subjects/04-windows-file-explorer-extensions-and-system-tools.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M2S05",
+              "title": "Linux directories and file permissions: first orientation",
+              "status": "backlog",
+              "path": "course/part-1/module-02/subjects/05-linux-directories-and-file-permissions-first-orientation.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M2S06",
+              "title": "OneDrive, cloud shares, backup, and restore",
+              "status": "backlog",
+              "path": "course/part-1/module-02/subjects/06-onedrive-cloud-shares-backup-and-restore.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P1M3",
+          "number": "1.3",
+          "title": "Command Shells, Bash, Git, and GitHub",
+          "timebox": "10–12 h",
+          "path": "course/part-1/module-03/README.md",
+          "assessment_path": "course/part-1/module-03/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P1M3S01",
+              "title": "PowerShell, CMD, Bash, and Git Bash",
+              "status": "backlog",
+              "path": "course/part-1/module-03/subjects/01-powershell-cmd-bash-and-git-bash.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M3S02",
+              "title": "Navigation, paths, exit codes, and environment variables",
+              "status": "backlog",
+              "path": "course/part-1/module-03/subjects/02-navigation-paths-exit-codes-and-environment-variables.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M3S03",
+              "title": "VS Code configuration and terminal workflow",
+              "status": "backlog",
+              "path": "course/part-1/module-03/subjects/03-vs-code-configuration-and-terminal-workflow.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M3S04",
+              "title": "Git commits, branches, merges, and recovery",
+              "status": "backlog",
+              "path": "course/part-1/module-03/subjects/04-git-commits-branches-merges-and-recovery.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M3S05",
+              "title": "GitHub private repositories and safe publishing",
+              "status": "backlog",
+              "path": "course/part-1/module-03/subjects/05-github-private-repositories-and-safe-publishing.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M3S06",
+              "title": "Secrets, .gitignore, and dependency trust",
+              "status": "backlog",
+              "path": "course/part-1/module-03/subjects/06-secrets-gitignore-and-dependency-trust.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P1M4",
+          "number": "1.4",
+          "title": "Languages and Build Boxes: JavaScript, Node, Java, Kubernetes",
+          "timebox": "10–14 h",
+          "path": "course/part-1/module-04/README.md",
+          "assessment_path": "course/part-1/module-04/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P1M4S01",
+              "title": "Browser JavaScript and the DOM",
+              "status": "backlog",
+              "path": "course/part-1/module-04/subjects/01-browser-javascript-and-the-dom.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M4S02",
+              "title": "Node.js, npm, and localhost-only HTTP",
+              "status": "backlog",
+              "path": "course/part-1/module-04/subjects/02-node-js-npm-and-localhost-only-http.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M4S03",
+              "title": "Java, the JVM, and cross-platform builds",
+              "status": "backlog",
+              "path": "course/part-1/module-04/subjects/03-java-the-jvm-and-cross-platform-builds.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M4S04",
+              "title": "Build tools: npm, pip, and Gradle preview",
+              "status": "backlog",
+              "path": "course/part-1/module-04/subjects/04-build-tools-npm-pip-and-gradle-preview.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M4S05",
+              "title": "Sandbox, containers, and basic port binding",
+              "status": "backlog",
+              "path": "course/part-1/module-04/subjects/05-sandbox-containers-and-basic-port-binding.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M4S06",
+              "title": "Kubernetes: pods, services, and orchestration vocabulary",
+              "status": "backlog",
+              "path": "course/part-1/module-04/subjects/06-kubernetes-pods-services-and-orchestration-vocabulary.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M4S07",
+              "title": "VS Code remotes, Codespaces, and prebuild environments",
+              "status": "backlog",
+              "path": "course/part-1/module-04/subjects/07-vs-code-remotes-codespaces-and-prebuild-environments.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P1M5",
+          "number": "1.5",
+          "title": "Python Basics",
+          "timebox": "8 h",
+          "path": "course/part-1/module-05/README.md",
+          "assessment_path": "course/part-1/module-05/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P1M5S01",
+              "title": "Running .py and working in a virtual environment",
+              "status": "backlog",
+              "path": "course/part-1/module-05/subjects/01-running-py-and-working-in-a-virtual-environment.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M5S02",
+              "title": "Python types, collections, flow, and functions",
+              "status": "backlog",
+              "path": "course/part-1/module-05/subjects/02-python-types-collections-flow-and-functions.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M5S03",
+              "title": "Files, errors, imports, and packages",
+              "status": "backlog",
+              "path": "course/part-1/module-05/subjects/03-files-errors-imports-and-packages.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M5S04",
+              "title": "Using SQLite safely from Python",
+              "status": "backlog",
+              "path": "course/part-1/module-05/subjects/04-using-sqlite-safely-from-python.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M5S05",
+              "title": "Small local CLI and bad-input test",
+              "status": "backlog",
+              "path": "course/part-1/module-05/subjects/05-small-local-cli-and-bad-input-test.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P1M6",
+          "number": "1.6",
+          "title": "Jupyter, Docker, and Repeatable Local Packaging",
+          "timebox": "6–8 h",
+          "path": "course/part-1/module-06/README.md",
+          "assessment_path": "course/part-1/module-06/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P1M6S01",
+              "title": "Jupyter notebooks, kernels, and reproducible notes",
+              "status": "backlog",
+              "path": "course/part-1/module-06/subjects/01-jupyter-notebooks-kernels-and-reproducible-notes.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M6S02",
+              "title": "Docker images, Dockerfiles, and containers",
+              "status": "backlog",
+              "path": "course/part-1/module-06/subjects/02-docker-images-dockerfiles-and-containers.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M6S03",
+              "title": "Local ports, volumes, and environment variables",
+              "status": "backlog",
+              "path": "course/part-1/module-06/subjects/03-local-ports-volumes-and-environment-variables.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M6S04",
+              "title": "Build, run, inspect logs, rebuild, and remove",
+              "status": "backlog",
+              "path": "course/part-1/module-06/subjects/04-build-run-inspect-logs-rebuild-and-remove.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M6S05",
+              "title": "Image provenance, permissions, and cleanup",
+              "status": "backlog",
+              "path": "course/part-1/module-06/subjects/05-image-provenance-permissions-and-cleanup.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P1M7",
+          "number": "1.7",
+          "title": "Cloud CLI and Cloud Studio: Guided Tour Only",
+          "timebox": "10–12 h",
+          "path": "course/part-1/module-07/README.md",
+          "assessment_path": "course/part-1/module-07/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P1M7S01",
+              "title": "What cloud CLIs and hosted studios do",
+              "status": "backlog",
+              "path": "course/part-1/module-07/subjects/01-what-cloud-clis-and-hosted-studios-do.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M7S02",
+              "title": "Projects, regions, identity, and authorization basics",
+              "status": "backlog",
+              "path": "course/part-1/module-07/subjects/02-projects-regions-identity-and-authorization-basics.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M7S03",
+              "title": "Reading help, version, and config safely",
+              "status": "backlog",
+              "path": "course/part-1/module-07/subjects/03-reading-help-version-and-config-safely.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M7S04",
+              "title": "Cloud storage, logging, and resources as concepts",
+              "status": "backlog",
+              "path": "course/part-1/module-07/subjects/04-cloud-storage-logging-and-resources-as-concepts.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M7S05",
+              "title": "Cost boundaries and payment-free tour",
+              "status": "backlog",
+              "path": "course/part-1/module-07/subjects/05-cost-boundaries-and-payment-free-tour.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P1M7S06",
+              "title": "A secure cloud architecture sketch",
+              "status": "backlog",
+              "path": "course/part-1/module-07/subjects/06-a-secure-cloud-architecture-sketch.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        }
+      ],
+      "capstone_file": "capstones/part-1.md"
+    },
+    {
+      "title": "Networks, security lab, and defended workspace",
+      "capstone": "The Defended Workspace",
+      "goal": "Build a local SQL class-notes tree, hand-code its lookup interface, and deploy a deliberately bounded website plus defensive lab.",
+      "id": "P2",
+      "modules": [
+        {
+          "id": "P2M1",
+          "number": "2.1",
+          "title": "Routing and Physical/Logical Networks",
+          "timebox": "2–5 h",
+          "path": "course/part-2/module-01/README.md",
+          "assessment_path": "course/part-2/module-01/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P2M1S01",
+              "title": "LAN, WAN, MAC addresses, and IP addresses",
+              "status": "backlog",
+              "path": "course/part-2/module-01/subjects/01-lan-wan-mac-addresses-and-ip-addresses.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M1S02",
+              "title": "Routing and switching: packet journeys",
+              "status": "backlog",
+              "path": "course/part-2/module-01/subjects/02-routing-and-switching-packet-journeys.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M1S03",
+              "title": "Addressing, subnets, NAT, and DNS",
+              "status": "backlog",
+              "path": "course/part-2/module-01/subjects/03-addressing-subnets-nat-and-dns.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M1S04",
+              "title": "DSL, modem, access point, and router roles",
+              "status": "backlog",
+              "path": "course/part-2/module-01/subjects/04-dsl-modem-access-point-and-router-roles.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M1S05",
+              "title": "Start the SQLite knowledge tree",
+              "status": "backlog",
+              "path": "course/part-2/module-01/subjects/05-start-the-sqlite-knowledge-tree.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P2M2",
+          "number": "2.2",
+          "title": "Handshakes, Standards, and Trust",
+          "timebox": "Up to 8 h",
+          "path": "course/part-2/module-02/README.md",
+          "assessment_path": "course/part-2/module-02/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P2M2S01",
+              "title": "HTTP, HTTPS, TCP, UDP, and TLS recap",
+              "status": "backlog",
+              "path": "course/part-2/module-02/subjects/01-http-https-tcp-udp-and-tls-recap.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M2S02",
+              "title": "Handshakes and trust-chain fundamentals",
+              "status": "backlog",
+              "path": "course/part-2/module-02/subjects/02-handshakes-and-trust-chain-fundamentals.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M2S03",
+              "title": "Standards bodies, versions, and interoperability",
+              "status": "backlog",
+              "path": "course/part-2/module-02/subjects/03-standards-bodies-versions-and-interoperability.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M2S04",
+              "title": "Threat models and security history",
+              "status": "backlog",
+              "path": "course/part-2/module-02/subjects/04-threat-models-and-security-history.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M2S05",
+              "title": "SQL note cross-links and provenance",
+              "status": "backlog",
+              "path": "course/part-2/module-02/subjects/05-sql-note-cross-links-and-provenance.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P2M3",
+          "number": "2.3",
+          "title": "Contemporary Networks and Protected Access",
+          "timebox": "6–8 h",
+          "path": "course/part-2/module-03/README.md",
+          "assessment_path": "course/part-2/module-03/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P2M3S01",
+              "title": "5G/6G direction and AI-native network claims",
+              "status": "backlog",
+              "path": "course/part-2/module-03/subjects/01-5g-6g-direction-and-ai-native-network-claims.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M3S02",
+              "title": "DOCSIS, multiplexing, and infrastructure",
+              "status": "backlog",
+              "path": "course/part-2/module-03/subjects/02-docsis-multiplexing-and-infrastructure.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M3S03",
+              "title": "Secure addressing, ports, and private access",
+              "status": "backlog",
+              "path": "course/part-2/module-03/subjects/03-secure-addressing-ports-and-private-access.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M3S04",
+              "title": "Tor and alternate routing: models and tradeoffs",
+              "status": "backlog",
+              "path": "course/part-2/module-03/subjects/04-tor-and-alternate-routing-models-and-tradeoffs.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M3S05",
+              "title": "Indexes and explainable SQL retrieval",
+              "status": "backlog",
+              "path": "course/part-2/module-03/subjects/05-indexes-and-explainable-sql-retrieval.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P2M4",
+          "number": "2.4",
+          "title": "Cloudflare, Full Stack, and Hosting Foundations",
+          "timebox": "8+ h",
+          "path": "course/part-2/module-04/README.md",
+          "assessment_path": "course/part-2/module-04/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P2M4S01",
+              "title": "Client, server, browser, database, and full stack",
+              "status": "backlog",
+              "path": "course/part-2/module-04/subjects/01-client-server-browser-database-and-full-stack.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M4S02",
+              "title": "Static sites versus dynamic applications",
+              "status": "backlog",
+              "path": "course/part-2/module-04/subjects/02-static-sites-versus-dynamic-applications.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M4S03",
+              "title": "Cloudflare services and hosting vocabulary",
+              "status": "backlog",
+              "path": "course/part-2/module-04/subjects/03-cloudflare-services-and-hosting-vocabulary.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M4S04",
+              "title": "Ruby on Rails and Gradle: ecosystem orientation",
+              "status": "backlog",
+              "path": "course/part-2/module-04/subjects/04-ruby-on-rails-and-gradle-ecosystem-orientation.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M4S05",
+              "title": "Safe staging, HTTPS, secrets, and port inspection",
+              "status": "backlog",
+              "path": "course/part-2/module-04/subjects/05-safe-staging-https-secrets-and-port-inspection.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M4S06",
+              "title": "Hand-built local SQL notes lookup interface",
+              "status": "backlog",
+              "path": "course/part-2/module-04/subjects/06-hand-built-local-sql-notes-lookup-interface.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P2M5",
+          "number": "2.5",
+          "title": "Webhooks, Widgets, Developer Tools, and Platforms",
+          "timebox": "6 h",
+          "path": "course/part-2/module-05/README.md",
+          "assessment_path": "course/part-2/module-05/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P2M5S01",
+              "title": "HTTP requests, APIs, webhooks, and authentication",
+              "status": "backlog",
+              "path": "course/part-2/module-05/subjects/01-http-requests-apis-webhooks-and-authentication.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M5S02",
+              "title": "Widgets and browser developer tools",
+              "status": "backlog",
+              "path": "course/part-2/module-05/subjects/02-widgets-and-browser-developer-tools.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M5S03",
+              "title": "Lighthouse and performance/accessibility checks",
+              "status": "backlog",
+              "path": "course/part-2/module-05/subjects/03-lighthouse-and-performance-accessibility-checks.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M5S04",
+              "title": "Platform surveys: Meta, Amazon, Shopify, Notion, Slack",
+              "status": "backlog",
+              "path": "course/part-2/module-05/subjects/04-platform-surveys-meta-amazon-shopify-notion-slack.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M5S05",
+              "title": "Webull and weather APIs: categories and permissions",
+              "status": "backlog",
+              "path": "course/part-2/module-05/subjects/05-webull-and-weather-apis-categories-and-permissions.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M5S06",
+              "title": "Search/filter and invalid-input testing in SQL notes",
+              "status": "backlog",
+              "path": "course/part-2/module-05/subjects/06-search-filter-and-invalid-input-testing-in-sql-notes.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P2M6",
+          "number": "2.6",
+          "title": "Defensive Browser Security Suite and Kali VM",
+          "timebox": "6–10 h",
+          "path": "course/part-2/module-06/README.md",
+          "assessment_path": "course/part-2/module-06/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P2M6S01",
+              "title": "Browser extension structure and permission models",
+              "status": "backlog",
+              "path": "course/part-2/module-06/subjects/01-browser-extension-structure-and-permission-models.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M6S02",
+              "title": "Designing a defensive local-only security suite",
+              "status": "backlog",
+              "path": "course/part-2/module-06/subjects/02-designing-a-defensive-local-only-security-suite.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M6S03",
+              "title": "Oracle VM, files, snapshots, and networking",
+              "status": "backlog",
+              "path": "course/part-2/module-06/subjects/03-oracle-vm-files-snapshots-and-networking.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M6S04",
+              "title": "Kali Linux setup and authorized testing ethics",
+              "status": "backlog",
+              "path": "course/part-2/module-06/subjects/04-kali-linux-setup-and-authorized-testing-ethics.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M6S05",
+              "title": "VS Code versus Visual Studio and VM connection",
+              "status": "backlog",
+              "path": "course/part-2/module-06/subjects/05-vs-code-versus-visual-studio-and-vm-connection.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M6S06",
+              "title": "Store safe lab evidence in SQLite notes",
+              "status": "backlog",
+              "path": "course/part-2/module-06/subjects/06-store-safe-lab-evidence-in-sqlite-notes.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P2M7",
+          "number": "2.7",
+          "title": "Root to Boot: Website + Online Security Workspace",
+          "timebox": "Open-ended",
+          "path": "course/part-2/module-07/README.md",
+          "assessment_path": "course/part-2/module-07/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P2M7S01",
+              "title": "Website build and repeatable deployment",
+              "status": "backlog",
+              "path": "course/part-2/module-07/subjects/01-website-build-and-repeatable-deployment.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M7S02",
+              "title": "HTTPS, secrets, access control, and least privilege",
+              "status": "backlog",
+              "path": "course/part-2/module-07/subjects/02-https-secrets-access-control-and-least-privilege.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M7S03",
+              "title": "Lighthouse report and repair cycle",
+              "status": "backlog",
+              "path": "course/part-2/module-07/subjects/03-lighthouse-report-and-repair-cycle.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M7S04",
+              "title": "Security-suite browser testing",
+              "status": "backlog",
+              "path": "course/part-2/module-07/subjects/04-security-suite-browser-testing.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M7S05",
+              "title": "SQL notes lookup, backup, and restore",
+              "status": "backlog",
+              "path": "course/part-2/module-07/subjects/05-sql-notes-lookup-backup-and-restore.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P2M7S06",
+              "title": "Incident notes and rollback demonstration",
+              "status": "backlog",
+              "path": "course/part-2/module-07/subjects/06-incident-notes-and-rollback-demonstration.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        }
+      ],
+      "capstone_file": "capstones/part-2.md"
+    },
+    {
+      "title": "AI history, agency, and secured shop",
+      "capstone": "Controlled Autonomy",
+      "goal": "Study AI development as a historical trend and construct a simulated shop/agent environment behind meaningful safety controls.",
+      "id": "P3",
+      "modules": [
+        {
+          "id": "P3M1",
+          "number": "3.1",
+          "title": "LLM History, the Big Five, and Direction of Travel",
+          "timebox": "4 h",
+          "path": "course/part-3/module-01/README.md",
+          "assessment_path": "course/part-3/module-01/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P3M1S01",
+              "title": "Language-model history and generational shifts",
+              "status": "backlog",
+              "path": "course/part-3/module-01/subjects/01-language-model-history-and-generational-shifts.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M1S02",
+              "title": "GPT, Claude, Gemini, Grok, and Copilot: goal-oriented design",
+              "status": "backlog",
+              "path": "course/part-3/module-01/subjects/02-gpt-claude-gemini-grok-and-copilot-goal-oriented-design.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M1S03",
+              "title": "Similarities, differences, and product layers",
+              "status": "backlog",
+              "path": "course/part-3/module-01/subjects/03-similarities-differences-and-product-layers.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M1S04",
+              "title": "Model behaviors, memory claims, and security risks",
+              "status": "backlog",
+              "path": "course/part-3/module-01/subjects/04-model-behaviors-memory-claims-and-security-risks.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M1S05",
+              "title": "Current capabilities versus projected directions",
+              "status": "backlog",
+              "path": "course/part-3/module-01/subjects/05-current-capabilities-versus-projected-directions.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P3M2",
+          "number": "3.2",
+          "title": "The Living AI Bible: Terms and Disputes",
+          "timebox": "3–4 h",
+          "path": "course/part-3/module-02/README.md",
+          "assessment_path": "course/part-3/module-02/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P3M2S01",
+              "title": "Models, tokens, context windows, turns, and inference",
+              "status": "backlog",
+              "path": "course/part-3/module-02/subjects/01-models-tokens-context-windows-turns-and-inference.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M2S02",
+              "title": "Bots, agents, tools, subagents, and orchestration",
+              "status": "backlog",
+              "path": "course/part-3/module-02/subjects/02-bots-agents-tools-subagents-and-orchestration.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M2S03",
+              "title": "Prompts, memory, retrieval, and system boundaries",
+              "status": "backlog",
+              "path": "course/part-3/module-02/subjects/03-prompts-memory-retrieval-and-system-boundaries.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M2S04",
+              "title": "API, key, subscriptions, usage pricing, and budget caps",
+              "status": "backlog",
+              "path": "course/part-3/module-02/subjects/04-api-key-subscriptions-usage-pricing-and-budget-caps.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M2S05",
+              "title": "Glossary of contested and marketing-heavy terms",
+              "status": "backlog",
+              "path": "course/part-3/module-02/subjects/05-glossary-of-contested-and-marketing-heavy-terms.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P3M3",
+          "number": "3.3",
+          "title": "Coding Agents and Tool Ecosystems",
+          "timebox": "4–6 h",
+          "path": "course/part-3/module-03/README.md",
+          "assessment_path": "course/part-3/module-03/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P3M3S01",
+              "title": "Copilot, Codex, Antigravity, and other agent workbenches",
+              "status": "backlog",
+              "path": "course/part-3/module-03/subjects/01-copilot-codex-antigravity-and-other-agent-workbenches.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M3S02",
+              "title": "Human review of AI-generated code and diffs",
+              "status": "backlog",
+              "path": "course/part-3/module-03/subjects/02-human-review-of-ai-generated-code-and-diffs.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M3S03",
+              "title": "API-key isolation, scoped permissions, and logging",
+              "status": "backlog",
+              "path": "course/part-3/module-03/subjects/03-api-key-isolation-scoped-permissions-and-logging.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M3S04",
+              "title": "Code, package, and prompt injection threat patterns",
+              "status": "backlog",
+              "path": "course/part-3/module-03/subjects/04-code-package-and-prompt-injection-threat-patterns.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M3S05",
+              "title": "Review-first AI coding workshop and baseline comparison",
+              "status": "backlog",
+              "path": "course/part-3/module-03/subjects/05-review-first-ai-coding-workshop-and-baseline-comparison.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P3M4",
+          "number": "3.4",
+          "title": "Workflows, Agents, and Swarms",
+          "timebox": "6 h",
+          "path": "course/part-3/module-04/README.md",
+          "assessment_path": "course/part-3/module-04/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P3M4S01",
+              "title": "Deterministic workflows versus agent loops",
+              "status": "backlog",
+              "path": "course/part-3/module-04/subjects/01-deterministic-workflows-versus-agent-loops.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M4S02",
+              "title": "Orchestration, delegations, and \"swarms\"",
+              "status": "backlog",
+              "path": "course/part-3/module-04/subjects/02-orchestration-delegations-and-swarms.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M4S03",
+              "title": "Azure, DeepSeek, and BigQuery ecosystem concepts",
+              "status": "backlog",
+              "path": "course/part-3/module-04/subjects/03-azure-deepseek-and-bigquery-ecosystem-concepts.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M4S04",
+              "title": "Tool execution gates, approvals, and rate limits",
+              "status": "backlog",
+              "path": "course/part-3/module-04/subjects/04-tool-execution-gates-approvals-and-rate-limits.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M4S05",
+              "title": "Failure testing, telemetry, and human override",
+              "status": "backlog",
+              "path": "course/part-3/module-04/subjects/05-failure-testing-telemetry-and-human-override.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P3M5",
+          "number": "3.5",
+          "title": "Specialized AI and Predictive Systems Watchlist",
+          "timebox": "3–4 h",
+          "path": "course/part-3/module-05/README.md",
+          "assessment_path": "course/part-3/module-05/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P3M5S01",
+              "title": "Predictive models, evaluation, and market narratives",
+              "status": "backlog",
+              "path": "course/part-3/module-05/subjects/01-predictive-models-evaluation-and-market-narratives.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M5S02",
+              "title": "BlackRock Aladdin: claims, purposes, limits",
+              "status": "backlog",
+              "path": "course/part-3/module-05/subjects/02-blackrock-aladdin-claims-purposes-limits.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M5S03",
+              "title": "Research emerging AI systems without hype",
+              "status": "backlog",
+              "path": "course/part-3/module-05/subjects/03-research-emerging-ai-systems-without-hype.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M5S04",
+              "title": "Provider comparison on reproducible use cases",
+              "status": "backlog",
+              "path": "course/part-3/module-05/subjects/04-provider-comparison-on-reproducible-use-cases.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M5S05",
+              "title": "Security and privacy analysis of specialized platforms",
+              "status": "backlog",
+              "path": "course/part-3/module-05/subjects/05-security-and-privacy-analysis-of-specialized-platforms.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P3M6",
+          "number": "3.6",
+          "title": "Build a Bounded Agent and Agent Hub",
+          "timebox": "8–12 h",
+          "path": "course/part-3/module-06/README.md",
+          "assessment_path": "course/part-3/module-06/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P3M6S01",
+              "title": "Agent architecture, tools, and permission scopes",
+              "status": "backlog",
+              "path": "course/part-3/module-06/subjects/01-agent-architecture-tools-and-permission-scopes.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M6S02",
+              "title": "Local agent harness and mock endpoints",
+              "status": "backlog",
+              "path": "course/part-3/module-06/subjects/02-local-agent-harness-and-mock-endpoints.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M6S03",
+              "title": "Prompt-injection resistance and untrusted text",
+              "status": "backlog",
+              "path": "course/part-3/module-06/subjects/03-prompt-injection-resistance-and-untrusted-text.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M6S04",
+              "title": "Tool allowlists, logs, and review queues",
+              "status": "backlog",
+              "path": "course/part-3/module-06/subjects/04-tool-allowlists-logs-and-review-queues.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M6S05",
+              "title": "Integrate safe website improvement proposals",
+              "status": "backlog",
+              "path": "course/part-3/module-06/subjects/05-integrate-safe-website-improvement-proposals.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P3M7",
+          "number": "3.7",
+          "title": "The AI Shop as a Security Demonstrator",
+          "timebox": "12–20 h initial",
+          "path": "course/part-3/module-07/README.md",
+          "assessment_path": "course/part-3/module-07/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P3M7S01",
+              "title": "Mock storefront, catalogue, and simulated fulfillment",
+              "status": "backlog",
+              "path": "course/part-3/module-07/subjects/01-mock-storefront-catalogue-and-simulated-fulfillment.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M7S02",
+              "title": "Order state machine and human approval boundaries",
+              "status": "backlog",
+              "path": "course/part-3/module-07/subjects/02-order-state-machine-and-human-approval-boundaries.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M7S03",
+              "title": "Supplier/printer/shipper adapters with test doubles",
+              "status": "backlog",
+              "path": "course/part-3/module-07/subjects/03-supplier-printer-shipper-adapters-with-test-doubles.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M7S04",
+              "title": "Security reviews: packages, prompts, ports, and keys",
+              "status": "backlog",
+              "path": "course/part-3/module-07/subjects/04-security-reviews-packages-prompts-ports-and-keys.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M7S05",
+              "title": "Audit, error recovery, and failure-injection lab",
+              "status": "backlog",
+              "path": "course/part-3/module-07/subjects/05-audit-error-recovery-and-failure-injection-lab.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P3M7S06",
+              "title": "AI-assisted shop demo with no real autonomous spend",
+              "status": "backlog",
+              "path": "course/part-3/module-07/subjects/06-ai-assisted-shop-demo-with-no-real-autonomous-spend.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        }
+      ],
+      "capstone_file": "capstones/part-3.md"
+    },
+    {
+      "title": "Hermes: assemble the system",
+      "capstone": "The Hermes Control Room",
+      "goal": "Assemble and test a Hermes-centered agent/tool/memory system and build a constrained Android-facing interface.",
+      "id": "P4",
+      "modules": [
+        {
+          "id": "P4M1",
+          "number": "4.1",
+          "title": "Back to Basics",
+          "timebox": "4 h",
+          "path": "course/part-4/module-01/README.md",
+          "assessment_path": "course/part-4/module-01/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P4M1S01",
+              "title": "M365, spreadsheets, and Git Bash refresher",
+              "status": "backlog",
+              "path": "course/part-4/module-01/subjects/01-m365-spreadsheets-and-git-bash-refresher.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M1S02",
+              "title": "Regex and shell operation refresher",
+              "status": "backlog",
+              "path": "course/part-4/module-01/subjects/02-regex-and-shell-operation-refresher.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M1S03",
+              "title": "SQL joins, indexing, and restoring the notes tree",
+              "status": "backlog",
+              "path": "course/part-4/module-01/subjects/03-sql-joins-indexing-and-restoring-the-notes-tree.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M1S04",
+              "title": "Security baseline and local inventory",
+              "status": "backlog",
+              "path": "course/part-4/module-01/subjects/04-security-baseline-and-local-inventory.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P4M2",
+          "number": "4.2",
+          "title": "Identify Hermes; Set Up Database and Memory",
+          "timebox": "6–8 h suggested",
+          "path": "course/part-4/module-02/README.md",
+          "assessment_path": "course/part-4/module-02/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P4M2S01",
+              "title": "Identify the intended Hermes project and verify provenance",
+              "status": "backlog",
+              "path": "course/part-4/module-02/subjects/01-identify-the-intended-hermes-project-and-verify-provenance.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M2S02",
+              "title": "Local setup and configuration boundaries",
+              "status": "backlog",
+              "path": "course/part-4/module-02/subjects/02-local-setup-and-configuration-boundaries.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M2S03",
+              "title": "Agent instructions and MD-style memory",
+              "status": "backlog",
+              "path": "course/part-4/module-02/subjects/03-agent-instructions-and-md-style-memory.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M2S04",
+              "title": "Read-only SQL tool and the synthetic catalogue",
+              "status": "backlog",
+              "path": "course/part-4/module-02/subjects/04-read-only-sql-tool-and-the-synthetic-catalogue.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M2S05",
+              "title": "Memory provenance, retrieval, and audit",
+              "status": "backlog",
+              "path": "course/part-4/module-02/subjects/05-memory-provenance-retrieval-and-audit.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P4M3",
+          "number": "4.3",
+          "title": "Build Small, Verifiable Hermes Tools",
+          "timebox": "6–8 h suggested",
+          "path": "course/part-4/module-03/README.md",
+          "assessment_path": "course/part-4/module-03/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P4M3S01",
+              "title": "Tool contracts, schemas, and input validation",
+              "status": "backlog",
+              "path": "course/part-4/module-03/subjects/01-tool-contracts-schemas-and-input-validation.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M3S02",
+              "title": "Git Bash and cloud CLI as restricted interfaces",
+              "status": "backlog",
+              "path": "course/part-4/module-03/subjects/02-git-bash-and-cloud-cli-as-restricted-interfaces.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M3S03",
+              "title": "Kiwi and browser integration: permission considerations",
+              "status": "backlog",
+              "path": "course/part-4/module-03/subjects/03-kiwi-and-browser-integration-permission-considerations.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M3S04",
+              "title": "PGP, keys, and signed artifacts",
+              "status": "backlog",
+              "path": "course/part-4/module-03/subjects/04-pgp-keys-and-signed-artifacts.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M3S05",
+              "title": "Tool tests, revocation, and error paths",
+              "status": "backlog",
+              "path": "course/part-4/module-03/subjects/05-tool-tests-revocation-and-error-paths.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P4M4",
+          "number": "4.4",
+          "title": "Security Suite + Reviewable Orchestration and SQL Index",
+          "timebox": "8–10 h suggested",
+          "path": "course/part-4/module-04/README.md",
+          "assessment_path": "course/part-4/module-04/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P4M4S01",
+              "title": "Read-only indexing of class notes and catalogue",
+              "status": "backlog",
+              "path": "course/part-4/module-04/subjects/01-read-only-indexing-of-class-notes-and-catalogue.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M4S02",
+              "title": "Query boundaries, citations, and result provenance",
+              "status": "backlog",
+              "path": "course/part-4/module-04/subjects/02-query-boundaries-citations-and-result-provenance.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M4S03",
+              "title": "Connect defensive browser tool to Hermes",
+              "status": "backlog",
+              "path": "course/part-4/module-04/subjects/03-connect-defensive-browser-tool-to-hermes.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M4S04",
+              "title": "Guarded orchestration and approval decisions",
+              "status": "backlog",
+              "path": "course/part-4/module-04/subjects/04-guarded-orchestration-and-approval-decisions.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M4S05",
+              "title": "Ad-tool mock actions, logs, and deny-by-default tests",
+              "status": "backlog",
+              "path": "course/part-4/module-04/subjects/05-ad-tool-mock-actions-logs-and-deny-by-default-tests.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P4M5",
+          "number": "4.5",
+          "title": "Bounded Context and Private Cross-Device Access",
+          "timebox": "10–12 h suggested",
+          "path": "course/part-4/module-05/README.md",
+          "assessment_path": "course/part-4/module-05/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P4M5S01",
+              "title": "Sliding context windows and retrieval controls",
+              "status": "backlog",
+              "path": "course/part-4/module-05/subjects/01-sliding-context-windows-and-retrieval-controls.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M5S02",
+              "title": "Local fast-access control panel",
+              "status": "backlog",
+              "path": "course/part-4/module-05/subjects/02-local-fast-access-control-panel.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M5S03",
+              "title": "Container packaging and recovery",
+              "status": "backlog",
+              "path": "course/part-4/module-05/subjects/03-container-packaging-and-recovery.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M5S04",
+              "title": "Identity-bound private remote access",
+              "status": "backlog",
+              "path": "course/part-4/module-05/subjects/04-identity-bound-private-remote-access.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M5S05",
+              "title": "Cloudflare as possible protected access layer",
+              "status": "backlog",
+              "path": "course/part-4/module-05/subjects/05-cloudflare-as-possible-protected-access-layer.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P4M6",
+          "number": "4.6",
+          "title": "Cradle to Gradle: Android Client",
+          "timebox": "8–12 h suggested",
+          "path": "course/part-4/module-06/README.md",
+          "assessment_path": "course/part-4/module-06/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P4M6S01",
+              "title": "Android application fundamentals and Gradle",
+              "status": "backlog",
+              "path": "course/part-4/module-06/subjects/01-android-application-fundamentals-and-gradle.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M6S02",
+              "title": "Choosing and validating the Android tooling",
+              "status": "backlog",
+              "path": "course/part-4/module-06/subjects/02-choosing-and-validating-the-android-tooling.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M6S03",
+              "title": "Minimal webview or app interface with explicit permissions",
+              "status": "backlog",
+              "path": "course/part-4/module-06/subjects/03-minimal-webview-or-app-interface-with-explicit-permissions.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M6S04",
+              "title": "Connecting to Hermes via safe authenticated gateway",
+              "status": "backlog",
+              "path": "course/part-4/module-06/subjects/04-connecting-to-hermes-via-safe-authenticated-gateway.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M6S05",
+              "title": "Emulator/device testing and secure release hygiene",
+              "status": "backlog",
+              "path": "course/part-4/module-06/subjects/05-emulator-device-testing-and-secure-release-hygiene.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        },
+        {
+          "id": "P4M7",
+          "number": "4.7",
+          "title": "Git Good: Private API, BigQuery, and Next-Step Certificates",
+          "timebox": "8–12 h suggested",
+          "path": "course/part-4/module-07/README.md",
+          "assessment_path": "course/part-4/module-07/assessment.md",
+          "status": "backlog",
+          "subjects": [
+            {
+              "id": "P4M7S01",
+              "title": "Versioning APIs and documenting endpoints",
+              "status": "backlog",
+              "path": "course/part-4/module-07/subjects/01-versioning-apis-and-documenting-endpoints.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M7S02",
+              "title": "Private registration of the Hermes agent",
+              "status": "backlog",
+              "path": "course/part-4/module-07/subjects/02-private-registration-of-the-hermes-agent.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M7S03",
+              "title": "BigQuery concepts and safe sample integration",
+              "status": "backlog",
+              "path": "course/part-4/module-07/subjects/03-bigquery-concepts-and-safe-sample-integration.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M7S04",
+              "title": "Cloud IAM cost, quota, and logging controls",
+              "status": "backlog",
+              "path": "course/part-4/module-07/subjects/04-cloud-iam-cost-quota-and-logging-controls.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            },
+            {
+              "id": "P4M7S05",
+              "title": "Google certificates and further study map",
+              "status": "backlog",
+              "path": "course/part-4/module-07/subjects/05-google-certificates-and-further-study-map.md",
+              "required_readings_count": 0,
+              "overview_ready": false,
+              "exercise_ready": false
+            }
+          ]
+        }
+      ],
+      "capstone_file": "capstones/part-4.md"
+    }
+  ]
+}

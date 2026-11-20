@@ -1,0 +1,151 @@
+id,module,subject,status,path
+P1M1S01,1.1,HTML and CSS: first Hello World,ready,course/part-1/module-01/subjects/01-html-and-css-first-hello-world.md
+P1M1S02,1.1,SQLite: a table and a query,backlog,course/part-1/module-01/subjects/02-sqlite-a-table-and-a-query.md
+P1M1S03,1.1,Microsoft 365 and Google Workspace orientation,backlog,course/part-1/module-01/subjects/03-microsoft-365-and-google-workspace-orientation.md
+P1M1S04,1.1,"Kiwi Browser, browser settings, and extension trust",backlog,course/part-1/module-01/subjects/04-kiwi-browser-browser-settings-and-extension-trust.md
+P1M1S05,1.1,"HTTPS handshakes, certificates, and thumbprints",backlog,course/part-1/module-01/subjects/05-https-handshakes-certificates-and-thumbprints.md
+P1M1S06,1.1,"Local files, filenames, and proof of work",backlog,course/part-1/module-01/subjects/06-local-files-filenames-and-proof-of-work.md
+P1M2S01,1.2,"Macros, scripts, and when not to enable automation",backlog,course/part-1/module-02/subjects/01-macros-scripts-and-when-not-to-enable-automation.md
+P1M2S02,1.2,XML and document structure,backlog,course/part-1/module-02/subjects/02-xml-and-document-structure.md
+P1M2S03,1.2,Excel and Google Sheets automation orientation,backlog,course/part-1/module-02/subjects/03-excel-and-google-sheets-automation-orientation.md
+P1M2S04,1.2,"Windows File Explorer, extensions, and system tools",backlog,course/part-1/module-02/subjects/04-windows-file-explorer-extensions-and-system-tools.md
+P1M2S05,1.2,Linux directories and file permissions: first orientation,backlog,course/part-1/module-02/subjects/05-linux-directories-and-file-permissions-first-orientation.md
+P1M2S06,1.2,"OneDrive, cloud shares, backup, and restore",backlog,course/part-1/module-02/subjects/06-onedrive-cloud-shares-backup-and-restore.md
+P1M3S01,1.3,"PowerShell, CMD, Bash, and Git Bash",backlog,course/part-1/module-03/subjects/01-powershell-cmd-bash-and-git-bash.md
+P1M3S02,1.3,"Navigation, paths, exit codes, and environment variables",backlog,course/part-1/module-03/subjects/02-navigation-paths-exit-codes-and-environment-variables.md
+P1M3S03,1.3,VS Code configuration and terminal workflow,backlog,course/part-1/module-03/subjects/03-vs-code-configuration-and-terminal-workflow.md
+P1M3S04,1.3,"Git commits, branches, merges, and recovery",backlog,course/part-1/module-03/subjects/04-git-commits-branches-merges-and-recovery.md
+P1M3S05,1.3,GitHub private repositories and safe publishing,backlog,course/part-1/module-03/subjects/05-github-private-repositories-and-safe-publishing.md
+P1M3S06,1.3,"Secrets, .gitignore, and dependency trust",backlog,course/part-1/module-03/subjects/06-secrets-gitignore-and-dependency-trust.md
+P1M4S01,1.4,Browser JavaScript and the DOM,backlog,course/part-1/module-04/subjects/01-browser-javascript-and-the-dom.md
+P1M4S02,1.4,"Node.js, npm, and localhost-only HTTP",backlog,course/part-1/module-04/subjects/02-node-js-npm-and-localhost-only-http.md
+P1M4S03,1.4,"Java, the JVM, and cross-platform builds",backlog,course/part-1/module-04/subjects/03-java-the-jvm-and-cross-platform-builds.md
+P1M4S04,1.4,"Build tools: npm, pip, and Gradle preview",backlog,course/part-1/module-04/subjects/04-build-tools-npm-pip-and-gradle-preview.md
+P1M4S05,1.4,"Sandbox, containers, and basic port binding",backlog,course/part-1/module-04/subjects/05-sandbox-containers-and-basic-port-binding.md
+P1M4S06,1.4,"Kubernetes: pods, services, and orchestration vocabulary",backlog,course/part-1/module-04/subjects/06-kubernetes-pods-services-and-orchestration-vocabulary.md
+P1M4S07,1.4,"VS Code remotes, Codespaces, and prebuild environments",backlog,course/part-1/module-04/subjects/07-vs-code-remotes-codespaces-and-prebuild-environments.md
+P1M5S01,1.5,Running .py and working in a virtual environment,backlog,course/part-1/module-05/subjects/01-running-py-and-working-in-a-virtual-environment.md
+P1M5S02,1.5,"Python types, collections, flow, and functions",backlog,course/part-1/module-05/subjects/02-python-types-collections-flow-and-functions.md
+P1M5S03,1.5,"Files, errors, imports, and packages",backlog,course/part-1/module-05/subjects/03-files-errors-imports-and-packages.md
+P1M5S04,1.5,Using SQLite safely from Python,backlog,course/part-1/module-05/subjects/04-using-sqlite-safely-from-python.md
+P1M5S05,1.5,Small local CLI and bad-input test,backlog,course/part-1/module-05/subjects/05-small-local-cli-and-bad-input-test.md
+P1M6S01,1.6,"Jupyter notebooks, kernels, and reproducible notes",backlog,course/part-1/module-06/subjects/01-jupyter-notebooks-kernels-and-reproducible-notes.md
+P1M6S02,1.6,"Docker images, Dockerfiles, and containers",backlog,course/part-1/module-06/subjects/02-docker-images-dockerfiles-and-containers.md
+P1M6S03,1.6,"Local ports, volumes, and environment variables",backlog,course/part-1/module-06/subjects/03-local-ports-volumes-and-environment-variables.md
+P1M6S04,1.6,"Build, run, inspect logs, rebuild, and remove",backlog,course/part-1/module-06/subjects/04-build-run-inspect-logs-rebuild-and-remove.md
+P1M6S05,1.6,"Image provenance, permissions, and cleanup",backlog,course/part-1/module-06/subjects/05-image-provenance-permissions-and-cleanup.md
+P1M7S01,1.7,What cloud CLIs and hosted studios do,backlog,course/part-1/module-07/subjects/01-what-cloud-clis-and-hosted-studios-do.md
+P1M7S02,1.7,"Projects, regions, identity, and authorization basics",backlog,course/part-1/module-07/subjects/02-projects-regions-identity-and-authorization-basics.md
+P1M7S03,1.7,"Reading help, version, and config safely",backlog,course/part-1/module-07/subjects/03-reading-help-version-and-config-safely.md
+P1M7S04,1.7,"Cloud storage, logging, and resources as concepts",backlog,course/part-1/module-07/subjects/04-cloud-storage-logging-and-resources-as-concepts.md
+P1M7S05,1.7,Cost boundaries and payment-free tour,backlog,course/part-1/module-07/subjects/05-cost-boundaries-and-payment-free-tour.md
+P1M7S06,1.7,A secure cloud architecture sketch,backlog,course/part-1/module-07/subjects/06-a-secure-cloud-architecture-sketch.md
+P2M1S01,2.1,"LAN, WAN, MAC addresses, and IP addresses",backlog,course/part-2/module-01/subjects/01-lan-wan-mac-addresses-and-ip-addresses.md
+P2M1S02,2.1,Routing and switching: packet journeys,backlog,course/part-2/module-01/subjects/02-routing-and-switching-packet-journeys.md
+P2M1S03,2.1,"Addressing, subnets, NAT, and DNS",backlog,course/part-2/module-01/subjects/03-addressing-subnets-nat-and-dns.md
+P2M1S04,2.1,"DSL, modem, access point, and router roles",backlog,course/part-2/module-01/subjects/04-dsl-modem-access-point-and-router-roles.md
+P2M1S05,2.1,Start the SQLite knowledge tree,backlog,course/part-2/module-01/subjects/05-start-the-sqlite-knowledge-tree.md
+P2M2S01,2.2,"HTTP, HTTPS, TCP, UDP, and TLS recap",backlog,course/part-2/module-02/subjects/01-http-https-tcp-udp-and-tls-recap.md
+P2M2S02,2.2,Handshakes and trust-chain fundamentals,backlog,course/part-2/module-02/subjects/02-handshakes-and-trust-chain-fundamentals.md
+P2M2S03,2.2,"Standards bodies, versions, and interoperability",backlog,course/part-2/module-02/subjects/03-standards-bodies-versions-and-interoperability.md
+P2M2S04,2.2,Threat models and security history,backlog,course/part-2/module-02/subjects/04-threat-models-and-security-history.md
+P2M2S05,2.2,SQL note cross-links and provenance,backlog,course/part-2/module-02/subjects/05-sql-note-cross-links-and-provenance.md
+P2M3S01,2.3,5G/6G direction and AI-native network claims,backlog,course/part-2/module-03/subjects/01-5g-6g-direction-and-ai-native-network-claims.md
+P2M3S02,2.3,"DOCSIS, multiplexing, and infrastructure",backlog,course/part-2/module-03/subjects/02-docsis-multiplexing-and-infrastructure.md
+P2M3S03,2.3,"Secure addressing, ports, and private access",backlog,course/part-2/module-03/subjects/03-secure-addressing-ports-and-private-access.md
+P2M3S04,2.3,Tor and alternate routing: models and tradeoffs,backlog,course/part-2/module-03/subjects/04-tor-and-alternate-routing-models-and-tradeoffs.md
+P2M3S05,2.3,Indexes and explainable SQL retrieval,backlog,course/part-2/module-03/subjects/05-indexes-and-explainable-sql-retrieval.md
+P2M4S01,2.4,"Client, server, browser, database, and full stack",backlog,course/part-2/module-04/subjects/01-client-server-browser-database-and-full-stack.md
+P2M4S02,2.4,Static sites versus dynamic applications,backlog,course/part-2/module-04/subjects/02-static-sites-versus-dynamic-applications.md
+P2M4S03,2.4,Cloudflare services and hosting vocabulary,backlog,course/part-2/module-04/subjects/03-cloudflare-services-and-hosting-vocabulary.md
+P2M4S04,2.4,Ruby on Rails and Gradle: ecosystem orientation,backlog,course/part-2/module-04/subjects/04-ruby-on-rails-and-gradle-ecosystem-orientation.md
+P2M4S05,2.4,"Safe staging, HTTPS, secrets, and port inspection",backlog,course/part-2/module-04/subjects/05-safe-staging-https-secrets-and-port-inspection.md
+P2M4S06,2.4,Hand-built local SQL notes lookup interface,backlog,course/part-2/module-04/subjects/06-hand-built-local-sql-notes-lookup-interface.md
+P2M5S01,2.5,"HTTP requests, APIs, webhooks, and authentication",backlog,course/part-2/module-05/subjects/01-http-requests-apis-webhooks-and-authentication.md
+P2M5S02,2.5,Widgets and browser developer tools,backlog,course/part-2/module-05/subjects/02-widgets-and-browser-developer-tools.md
+P2M5S03,2.5,Lighthouse and performance/accessibility checks,backlog,course/part-2/module-05/subjects/03-lighthouse-and-performance-accessibility-checks.md
+P2M5S04,2.5,"Platform surveys: Meta, Amazon, Shopify, Notion, Slack",backlog,course/part-2/module-05/subjects/04-platform-surveys-meta-amazon-shopify-notion-slack.md
+P2M5S05,2.5,Webull and weather APIs: categories and permissions,backlog,course/part-2/module-05/subjects/05-webull-and-weather-apis-categories-and-permissions.md
+P2M5S06,2.5,Search/filter and invalid-input testing in SQL notes,backlog,course/part-2/module-05/subjects/06-search-filter-and-invalid-input-testing-in-sql-notes.md
+P2M6S01,2.6,Browser extension structure and permission models,backlog,course/part-2/module-06/subjects/01-browser-extension-structure-and-permission-models.md
+P2M6S02,2.6,Designing a defensive local-only security suite,backlog,course/part-2/module-06/subjects/02-designing-a-defensive-local-only-security-suite.md
+P2M6S03,2.6,"Oracle VM, files, snapshots, and networking",backlog,course/part-2/module-06/subjects/03-oracle-vm-files-snapshots-and-networking.md
+P2M6S04,2.6,Kali Linux setup and authorized testing ethics,backlog,course/part-2/module-06/subjects/04-kali-linux-setup-and-authorized-testing-ethics.md
+P2M6S05,2.6,VS Code versus Visual Studio and VM connection,backlog,course/part-2/module-06/subjects/05-vs-code-versus-visual-studio-and-vm-connection.md
+P2M6S06,2.6,Store safe lab evidence in SQLite notes,backlog,course/part-2/module-06/subjects/06-store-safe-lab-evidence-in-sqlite-notes.md
+P2M7S01,2.7,Website build and repeatable deployment,backlog,course/part-2/module-07/subjects/01-website-build-and-repeatable-deployment.md
+P2M7S02,2.7,"HTTPS, secrets, access control, and least privilege",backlog,course/part-2/module-07/subjects/02-https-secrets-access-control-and-least-privilege.md
+P2M7S03,2.7,Lighthouse report and repair cycle,backlog,course/part-2/module-07/subjects/03-lighthouse-report-and-repair-cycle.md
+P2M7S04,2.7,Security-suite browser testing,backlog,course/part-2/module-07/subjects/04-security-suite-browser-testing.md
+P2M7S05,2.7,"SQL notes lookup, backup, and restore",backlog,course/part-2/module-07/subjects/05-sql-notes-lookup-backup-and-restore.md
+P2M7S06,2.7,Incident notes and rollback demonstration,backlog,course/part-2/module-07/subjects/06-incident-notes-and-rollback-demonstration.md
+P3M1S01,3.1,Language-model history and generational shifts,backlog,course/part-3/module-01/subjects/01-language-model-history-and-generational-shifts.md
+P3M1S02,3.1,"GPT, Claude, Gemini, Grok, and Copilot: goal-oriented design",backlog,course/part-3/module-01/subjects/02-gpt-claude-gemini-grok-and-copilot-goal-oriented-design.md
+P3M1S03,3.1,"Similarities, differences, and product layers",backlog,course/part-3/module-01/subjects/03-similarities-differences-and-product-layers.md
+P3M1S04,3.1,"Model behaviors, memory claims, and security risks",backlog,course/part-3/module-01/subjects/04-model-behaviors-memory-claims-and-security-risks.md
+P3M1S05,3.1,Current capabilities versus projected directions,backlog,course/part-3/module-01/subjects/05-current-capabilities-versus-projected-directions.md
+P3M2S01,3.2,"Models, tokens, context windows, turns, and inference",backlog,course/part-3/module-02/subjects/01-models-tokens-context-windows-turns-and-inference.md
+P3M2S02,3.2,"Bots, agents, tools, subagents, and orchestration",backlog,course/part-3/module-02/subjects/02-bots-agents-tools-subagents-and-orchestration.md
+P3M2S03,3.2,"Prompts, memory, retrieval, and system boundaries",backlog,course/part-3/module-02/subjects/03-prompts-memory-retrieval-and-system-boundaries.md
+P3M2S04,3.2,"API, key, subscriptions, usage pricing, and budget caps",backlog,course/part-3/module-02/subjects/04-api-key-subscriptions-usage-pricing-and-budget-caps.md
+P3M2S05,3.2,Glossary of contested and marketing-heavy terms,backlog,course/part-3/module-02/subjects/05-glossary-of-contested-and-marketing-heavy-terms.md
+P3M3S01,3.3,"Copilot, Codex, Antigravity, and other agent workbenches",backlog,course/part-3/module-03/subjects/01-copilot-codex-antigravity-and-other-agent-workbenches.md
+P3M3S02,3.3,Human review of AI-generated code and diffs,backlog,course/part-3/module-03/subjects/02-human-review-of-ai-generated-code-and-diffs.md
+P3M3S03,3.3,"API-key isolation, scoped permissions, and logging",backlog,course/part-3/module-03/subjects/03-api-key-isolation-scoped-permissions-and-logging.md
+P3M3S04,3.3,"Code, package, and prompt injection threat patterns",backlog,course/part-3/module-03/subjects/04-code-package-and-prompt-injection-threat-patterns.md
+P3M3S05,3.3,Review-first AI coding workshop and baseline comparison,backlog,course/part-3/module-03/subjects/05-review-first-ai-coding-workshop-and-baseline-comparison.md
+P3M4S01,3.4,Deterministic workflows versus agent loops,backlog,course/part-3/module-04/subjects/01-deterministic-workflows-versus-agent-loops.md
+P3M4S02,3.4,"Orchestration, delegations, and ""swarms""",backlog,course/part-3/module-04/subjects/02-orchestration-delegations-and-swarms.md
+P3M4S03,3.4,"Azure, DeepSeek, and BigQuery ecosystem concepts",backlog,course/part-3/module-04/subjects/03-azure-deepseek-and-bigquery-ecosystem-concepts.md
+P3M4S04,3.4,"Tool execution gates, approvals, and rate limits",backlog,course/part-3/module-04/subjects/04-tool-execution-gates-approvals-and-rate-limits.md
+P3M4S05,3.4,"Failure testing, telemetry, and human override",backlog,course/part-3/module-04/subjects/05-failure-testing-telemetry-and-human-override.md
+P3M5S01,3.5,"Predictive models, evaluation, and market narratives",backlog,course/part-3/module-05/subjects/01-predictive-models-evaluation-and-market-narratives.md
+P3M5S02,3.5,"BlackRock Aladdin: claims, purposes, limits",backlog,course/part-3/module-05/subjects/02-blackrock-aladdin-claims-purposes-limits.md
+P3M5S03,3.5,Research emerging AI systems without hype,backlog,course/part-3/module-05/subjects/03-research-emerging-ai-systems-without-hype.md
+P3M5S04,3.5,Provider comparison on reproducible use cases,backlog,course/part-3/module-05/subjects/04-provider-comparison-on-reproducible-use-cases.md
+P3M5S05,3.5,Security and privacy analysis of specialized platforms,backlog,course/part-3/module-05/subjects/05-security-and-privacy-analysis-of-specialized-platforms.md
+P3M6S01,3.6,"Agent architecture, tools, and permission scopes",backlog,course/part-3/module-06/subjects/01-agent-architecture-tools-and-permission-scopes.md
+P3M6S02,3.6,Local agent harness and mock endpoints,backlog,course/part-3/module-06/subjects/02-local-agent-harness-and-mock-endpoints.md
+P3M6S03,3.6,Prompt-injection resistance and untrusted text,backlog,course/part-3/module-06/subjects/03-prompt-injection-resistance-and-untrusted-text.md
+P3M6S04,3.6,"Tool allowlists, logs, and review queues",backlog,course/part-3/module-06/subjects/04-tool-allowlists-logs-and-review-queues.md
+P3M6S05,3.6,Integrate safe website improvement proposals,backlog,course/part-3/module-06/subjects/05-integrate-safe-website-improvement-proposals.md
+P3M7S01,3.7,"Mock storefront, catalogue, and simulated fulfillment",backlog,course/part-3/module-07/subjects/01-mock-storefront-catalogue-and-simulated-fulfillment.md
+P3M7S02,3.7,Order state machine and human approval boundaries,backlog,course/part-3/module-07/subjects/02-order-state-machine-and-human-approval-boundaries.md
+P3M7S03,3.7,Supplier/printer/shipper adapters with test doubles,backlog,course/part-3/module-07/subjects/03-supplier-printer-shipper-adapters-with-test-doubles.md
+P3M7S04,3.7,"Security reviews: packages, prompts, ports, and keys",backlog,course/part-3/module-07/subjects/04-security-reviews-packages-prompts-ports-and-keys.md
+P3M7S05,3.7,"Audit, error recovery, and failure-injection lab",backlog,course/part-3/module-07/subjects/05-audit-error-recovery-and-failure-injection-lab.md
+P3M7S06,3.7,AI-assisted shop demo with no real autonomous spend,backlog,course/part-3/module-07/subjects/06-ai-assisted-shop-demo-with-no-real-autonomous-spend.md
+P4M1S01,4.1,"M365, spreadsheets, and Git Bash refresher",backlog,course/part-4/module-01/subjects/01-m365-spreadsheets-and-git-bash-refresher.md
+P4M1S02,4.1,Regex and shell operation refresher,backlog,course/part-4/module-01/subjects/02-regex-and-shell-operation-refresher.md
+P4M1S03,4.1,"SQL joins, indexing, and restoring the notes tree",backlog,course/part-4/module-01/subjects/03-sql-joins-indexing-and-restoring-the-notes-tree.md
+P4M1S04,4.1,Security baseline and local inventory,backlog,course/part-4/module-01/subjects/04-security-baseline-and-local-inventory.md
+P4M2S01,4.2,Identify the intended Hermes project and verify provenance,backlog,course/part-4/module-02/subjects/01-identify-the-intended-hermes-project-and-verify-provenance.md
+P4M2S02,4.2,Local setup and configuration boundaries,backlog,course/part-4/module-02/subjects/02-local-setup-and-configuration-boundaries.md
+P4M2S03,4.2,Agent instructions and MD-style memory,backlog,course/part-4/module-02/subjects/03-agent-instructions-and-md-style-memory.md
+P4M2S04,4.2,Read-only SQL tool and the synthetic catalogue,backlog,course/part-4/module-02/subjects/04-read-only-sql-tool-and-the-synthetic-catalogue.md
+P4M2S05,4.2,"Memory provenance, retrieval, and audit",backlog,course/part-4/module-02/subjects/05-memory-provenance-retrieval-and-audit.md
+P4M3S01,4.3,"Tool contracts, schemas, and input validation",backlog,course/part-4/module-03/subjects/01-tool-contracts-schemas-and-input-validation.md
+P4M3S02,4.3,Git Bash and cloud CLI as restricted interfaces,backlog,course/part-4/module-03/subjects/02-git-bash-and-cloud-cli-as-restricted-interfaces.md
+P4M3S03,4.3,Kiwi and browser integration: permission considerations,backlog,course/part-4/module-03/subjects/03-kiwi-and-browser-integration-permission-considerations.md
+P4M3S04,4.3,"PGP, keys, and signed artifacts",backlog,course/part-4/module-03/subjects/04-pgp-keys-and-signed-artifacts.md
+P4M3S05,4.3,"Tool tests, revocation, and error paths",backlog,course/part-4/module-03/subjects/05-tool-tests-revocation-and-error-paths.md
+P4M4S01,4.4,Read-only indexing of class notes and catalogue,backlog,course/part-4/module-04/subjects/01-read-only-indexing-of-class-notes-and-catalogue.md
+P4M4S02,4.4,"Query boundaries, citations, and result provenance",backlog,course/part-4/module-04/subjects/02-query-boundaries-citations-and-result-provenance.md
+P4M4S03,4.4,Connect defensive browser tool to Hermes,backlog,course/part-4/module-04/subjects/03-connect-defensive-browser-tool-to-hermes.md
+P4M4S04,4.4,Guarded orchestration and approval decisions,backlog,course/part-4/module-04/subjects/04-guarded-orchestration-and-approval-decisions.md
+P4M4S05,4.4,"Ad-tool mock actions, logs, and deny-by-default tests",backlog,course/part-4/module-04/subjects/05-ad-tool-mock-actions-logs-and-deny-by-default-tests.md
+P4M5S01,4.5,Sliding context windows and retrieval controls,backlog,course/part-4/module-05/subjects/01-sliding-context-windows-and-retrieval-controls.md
+P4M5S02,4.5,Local fast-access control panel,backlog,course/part-4/module-05/subjects/02-local-fast-access-control-panel.md
+P4M5S03,4.5,Container packaging and recovery,backlog,course/part-4/module-05/subjects/03-container-packaging-and-recovery.md
+P4M5S04,4.5,Identity-bound private remote access,backlog,course/part-4/module-05/subjects/04-identity-bound-private-remote-access.md
+P4M5S05,4.5,Cloudflare as possible protected access layer,backlog,course/part-4/module-05/subjects/05-cloudflare-as-possible-protected-access-layer.md
+P4M6S01,4.6,Android application fundamentals and Gradle,backlog,course/part-4/module-06/subjects/01-android-application-fundamentals-and-gradle.md
+P4M6S02,4.6,Choosing and validating the Android tooling,backlog,course/part-4/module-06/subjects/02-choosing-and-validating-the-android-tooling.md
+P4M6S03,4.6,Minimal webview or app interface with explicit permissions,backlog,course/part-4/module-06/subjects/03-minimal-webview-or-app-interface-with-explicit-permissions.md
+P4M6S04,4.6,Connecting to Hermes via safe authenticated gateway,backlog,course/part-4/module-06/subjects/04-connecting-to-hermes-via-safe-authenticated-gateway.md
+P4M6S05,4.6,Emulator/device testing and secure release hygiene,backlog,course/part-4/module-06/subjects/05-emulator-device-testing-and-secure-release-hygiene.md
+P4M7S01,4.7,Versioning APIs and documenting endpoints,backlog,course/part-4/module-07/subjects/01-versioning-apis-and-documenting-endpoints.md
+P4M7S02,4.7,Private registration of the Hermes agent,backlog,course/part-4/module-07/subjects/02-private-registration-of-the-hermes-agent.md
+P4M7S03,4.7,BigQuery concepts and safe sample integration,backlog,course/part-4/module-07/subjects/03-bigquery-concepts-and-safe-sample-integration.md
+P4M7S04,4.7,"Cloud IAM cost, quota, and logging controls",backlog,course/part-4/module-07/subjects/04-cloud-iam-cost-quota-and-logging-controls.md
+P4M7S05,4.7,Google certificates and further study map,backlog,course/part-4/module-07/subjects/05-google-certificates-and-further-study-map.md
