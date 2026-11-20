@@ -1,6 +1,6 @@
 # ROOTCAMP — Root to boot
 
-**Version 0.4 | Course repository starter | Status: syllabus staged, teaching not yet underway**
+## version 0.4 | Course repository starter | Status: syllabus staged, teaching not yet underway**
 
 Rootcamp is a short, practical path from desktop/network literacy to designing, securing, inspecting, and maintaining AI-operated systems. It is **not** a comprehensive computer science course or a plan to launch an autonomous commercial business.
 
